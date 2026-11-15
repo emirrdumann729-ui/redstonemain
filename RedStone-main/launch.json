@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sphereview",
+      "runtimeExecutable": "C:\\Users\\MSI\\Desktop\\NASA\\Planet-X-and-SPHEREx-Nasa-Space-Apps-Challenge-Redstone-main\\.venv\\Scripts\\python.exe",
+      "runtimeArgs": ["-m", "uvicorn", "backend.app:app", "--app-dir", "C:\\Users\\MSI\\Desktop\\NASA\\Planet-X-and-SPHEREx-Nasa-Space-Apps-Challenge-Redstone-main", "--timeout-graceful-shutdown", "3", "--port", "8000"],
+      "port": 8000
+    }
+  ]
+}
